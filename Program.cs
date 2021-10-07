@@ -11,7 +11,7 @@ namespace myApp
             Console.Write("Введите свое имя: ");
             string name = Console.ReadLine();       // вводим имя
             Console.WriteLine($"Привет {name} " + "\n" + DateTime.Now);
-            /* Dzima -> myApp mlmlmlmlmlm ADCSDCwfwN*/
+            /* Dzima -> myApp comment from git*/
         }
     }
 }
