@@ -1,2 +1,2 @@
 # myApp
-It's a test description
+It's a test description.
